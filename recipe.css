@@ -1,0 +1,38 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    border: solid 1px black;
+}
+
+p {
+    text-align: center;
+}
+
+.banner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.banner > img {
+    width: 450px;
+    height: 400px;
+}
